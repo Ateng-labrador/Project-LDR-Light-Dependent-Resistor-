@@ -1,0 +1,68 @@
+LDR Value: 0
+LDR Value: 603
+LDR Value: 585
+LDR Value: 597
+LDR Value: 582
+LDR Value: 589
+LDR Value: 599
+LDR Value: 576
+LDR Value: 594
+LDR Value: 602
+LDR Value: 584
+LDR Value: 596
+LDR Value: 590
+LDR Value: 588
+LDR Value: 599
+LDR Value: 576
+LDR Value: 592
+LDR Value: 600
+LDR Value: 583
+LDR Value: 594
+LDR Value: 594
+LDR Value: 585
+LDR Value: 595
+LDR Value: 581
+LDR Value: 589
+LDR Value: 598
+LDR Value: 578
+LDR Value: 591
+LDR Value: 653
+LDR Value: 660
+LDR Value: 854
+LDR Value: 836
+LDR Value: 837
+LDR Value: 841
+LDR Value: 830
+LDR Value: 839
+LDR Value: 834
+LDR Value: 836
+LDR Value: 841
+LDR Value: 836
+LDR Value: 837
+LDR Value: 837
+LDR Value: 838
+LDR Value: 835
+LDR Value: 841
+LDR Value: 841
+LDR Value: 838
+LDR Value: 846
+LDR Value: 838
+LDR Value: 843
+LDR Value: 841
+LDR Value: 840
+LDR Value: 853
+LDR Value: 842
+LDR Value: 849
+LDR Value: 853
+262
+262
+228
+252
+236
+245
+237
+246
+242
+219
+173
+191
