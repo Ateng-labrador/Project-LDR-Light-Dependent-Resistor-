@@ -1,6 +1,6 @@
 int LDR_pin = A0;
 int LED_pin = 9;
-int brightness = 0;
+int brightness = 00;
 int LDR_value;
 
 
