@@ -4,7 +4,7 @@ from serial import Serial
 import time
 import sys
 
-filename = "dataLDRL300up.txt"
+filename = "dataLDRotomatis1.txt"
 
 def adddata(data):#a function to add the data to the text file
 	h=str(data)+'\n'
