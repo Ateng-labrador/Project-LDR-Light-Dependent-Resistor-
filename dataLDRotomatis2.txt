@@ -1,0 +1,467 @@
+LDR Value: 0 Lux: 0.50 Brightness: 0
+LDR Value: 0 Lux: 0.50 Brightness: 0
+LDR Value: 0 Lux: 0.50 Brightness: 0
+LDR Value: 0 Lux: 0.50 Brightness: 0
+LDR Value: 0 Lux: 0.50 Brightness: 0
+LDR Value: 0 Lux: 0.50 Brightness: 0
+LDR Value: 1 Lux: 0.50 Brightness: 0
+LDR Value: 1 Lux: 0.50 Brightness: 0
+LDR Value: 3 Lux: 0.50 Brightness: 0
+LDR Value: 2 Lux: 0.50 Brightness: 0
+LDR Value: 2 Lux: 0.50 Brightness: 0
+LDR Value: 2 Lux: 0.50 Brightness: 0
+LDR Value: 3 Lux: 0.50 Brightness: 0
+LDR Value: 5 Lux: 0.51 Brightness: 0
+LDR Value: 0 Lux: 0.50 Brightness: 0
+
+
+LDR Value: 764 Lux: 2.30 Brightness: 20
+LDR Value: 804 Lux: 2.50 Brightness: 20
+LDR Value: 804 Lux: 2.50 Brightness: 20
+LDR Value: 732 Lux: 2.16 Brightness: 20
+LDR Value: 745 Lux: 2.22 Brightness: 20
+LDR Value: 754 Lux: 2.26 Brightness: 20
+LDR Value: 765 Lux: 2.31 Brightness: 20
+LDR Value: 775 Lux: 2.36 Brightness: 20
+LDR Value: 786 Lux: 2.41 Brightness: 20
+LDR Value: 798 Lux: 2.47 Brightness: 20
+LDR Value: 809 Lux: 2.52 Brightness: 20
+LDR Value: 821 Lux: 2.58 Brightness: 20
+LDR Value: 834 Lux: 2.65 Brightness: 20
+LDR Value: 743 Lux: 2.21 Brightness: 20
+LDR Value: 750 Lux: 2.24 Brightness: 20
+
+
+
+LDR Value: 800 Lux: 2.48 Brightness: 40
+LDR Value: 890 Lux: 2.96 Brightness: 40
+LDR Value: 903 Lux: 3.04 Brightness: 40
+LDR Value: 866 Lux: 2.83 Brightness: 40
+LDR Value: 826 Lux: 2.61 Brightness: 40
+LDR Value: 834 Lux: 2.65 Brightness: 40
+LDR Value: 841 Lux: 2.69 Brightness: 40
+LDR Value: 849 Lux: 2.73 Brightness: 40
+LDR Value: 858 Lux: 2.78 Brightness: 40
+LDR Value: 867 Lux: 2.83 Brightness: 40
+LDR Value: 877 Lux: 2.89 Brightness: 40
+LDR Value: 888 Lux: 2.95 Brightness: 40
+LDR Value: 901 Lux: 3.03 Brightness: 40
+LDR Value: 877 Lux: 2.89 Brightness: 40
+LDR Value: 825 Lux: 2.60 Brightness: 40
+LDR Value: 832 Lux: 2.64 Brightness: 40
+
+
+
+LDR Value: 880 Lux: 2.91 Brightness: 60
+LDR Value: 926 Lux: 3.19 Brightness: 60
+LDR Value: 917 Lux: 3.13 Brightness: 60
+LDR Value: 891 Lux: 2.97 Brightness: 60
+LDR Value: 863 Lux: 2.81 Brightness: 60
+LDR Value: 870 Lux: 2.85 Brightness: 60
+LDR Value: 878 Lux: 2.89 Brightness: 60
+LDR Value: 885 Lux: 2.94 Brightness: 60
+LDR Value: 893 Lux: 2.98 Brightness: 60
+LDR Value: 902 Lux: 3.04 Brightness: 60
+LDR Value: 912 Lux: 3.10 Brightness: 60
+LDR Value: 923 Lux: 3.17 Brightness: 60
+LDR Value: 920 Lux: 3.15 Brightness: 60
+LDR Value: 898 Lux: 3.01 Brightness: 60
+LDR Value: 863 Lux: 2.81 Brightness: 60
+
+
+
+LDR Value: 917 Lux: 3.13 Brightness: 80
+LDR Value: 937 Lux: 3.26 Brightness: 80
+LDR Value: 928 Lux: 3.20 Brightness: 80
+LDR Value: 905 Lux: 3.06 Brightness: 80
+LDR Value: 887 Lux: 2.95 Brightness: 80
+LDR Value: 893 Lux: 2.98 Brightness: 80
+LDR Value: 901 Lux: 3.03 Brightness: 80
+LDR Value: 908 Lux: 3.07 Brightness: 80
+LDR Value: 916 Lux: 3.12 Brightness: 80
+LDR Value: 924 Lux: 3.17 Brightness: 80
+LDR Value: 934 Lux: 3.24 Brightness: 80
+LDR Value: 939 Lux: 3.27 Brightness: 80
+LDR Value: 930 Lux: 3.21 Brightness: 80
+LDR Value: 911 Lux: 3.09 Brightness: 80
+LDR Value: 887 Lux: 2.95 Brightness: 80
+LDR Value: 891 Lux: 2.97 Brightness: 80
+
+
+
+LDR Value: 941 Lux: 3.28 Brightness: 100
+LDR Value: 916 Lux: 3.12 Brightness: 100
+LDR Value: 937 Lux: 3.26 Brightness: 100
+LDR Value: 930 Lux: 3.21 Brightness: 100
+LDR Value: 902 Lux: 3.04 Brightness: 100
+LDR Value: 947 Lux: 3.32 Brightness: 100
+LDR Value: 913 Lux: 3.10 Brightness: 100
+LDR Value: 941 Lux: 3.28 Brightness: 100
+LDR Value: 925 Lux: 3.18 Brightness: 100
+LDR Value: 918 Lux: 3.14 Brightness: 100
+LDR Value: 941 Lux: 3.28 Brightness: 100
+LDR Value: 909 Lux: 3.08 Brightness: 100
+LDR Value: 946 Lux: 3.32 Brightness: 100
+LDR Value: 921 Lux: 3.15 Brightness: 100
+LDR Value: 930 Lux: 3.21 Brightness: 100
+LDR Value: 935 Lux: 3.24 Brightness: 100
+
+
+
+LDR Value: 930 Lux: 3.21 Brightness: 120
+LDR Value: 945 Lux: 3.31 Brightness: 120
+LDR Value: 917 Lux: 3.13 Brightness: 120
+LDR Value: 954 Lux: 3.37 Brightness: 120
+LDR Value: 926 Lux: 3.19 Brightness: 120
+LDR Value: 946 Lux: 3.32 Brightness: 120
+LDR Value: 939 Lux: 3.27 Brightness: 120
+LDR Value: 923 Lux: 3.17 Brightness: 120
+LDR Value: 954 Lux: 3.37 Brightness: 120
+LDR Value: 923 Lux: 3.17 Brightness: 120
+LDR Value: 949 Lux: 3.34 Brightness: 120
+LDR Value: 935 Lux: 3.24 Brightness: 120
+LDR Value: 933 Lux: 3.23 Brightness: 120
+LDR Value: 950 Lux: 3.34 Brightness: 120
+LDR Value: 918 Lux: 3.14 Brightness: 120
+LDR Value: 951 Lux: 3.35 Brightness: 120
+
+
+LDR Value: 917 Lux: 3.13 Brightness: 140
+LDR Value: 955 Lux: 3.38 Brightness: 140
+LDR Value: 938 Lux: 3.26 Brightness: 140
+LDR Value: 948 Lux: 3.33 Brightness: 140
+LDR Value: 952 Lux: 3.36 Brightness: 140
+LDR Value: 928 Lux: 3.20 Brightness: 140
+LDR Value: 956 Lux: 3.38 Brightness: 140
+LDR Value: 934 Lux: 3.24 Brightness: 140
+LDR Value: 951 Lux: 3.35 Brightness: 140
+LDR Value: 948 Lux: 3.33 Brightness: 140
+LDR Value: 939 Lux: 3.27 Brightness: 140
+LDR Value: 959 Lux: 3.40 Brightness: 140
+LDR Value: 930 Lux: 3.21 Brightness: 140
+LDR Value: 953 Lux: 3.36 Brightness: 140
+LDR Value: 943 Lux: 3.30 Brightness: 140
+
+
+
+LDR Value: 942 Lux: 3.29 Brightness: 160
+LDR Value: 951 Lux: 3.35 Brightness: 160
+LDR Value: 961 Lux: 3.42 Brightness: 160
+LDR Value: 934 Lux: 3.24 Brightness: 160
+LDR Value: 959 Lux: 3.40 Brightness: 160
+LDR Value: 945 Lux: 3.31 Brightness: 160
+LDR Value: 954 Lux: 3.37 Brightness: 160
+LDR Value: 959 Lux: 3.40 Brightness: 160
+LDR Value: 942 Lux: 3.29 Brightness: 160
+LDR Value: 960 Lux: 3.41 Brightness: 160
+LDR Value: 941 Lux: 3.28 Brightness: 160
+LDR Value: 955 Lux: 3.38 Brightness: 160
+LDR Value: 954 Lux: 3.37 Brightness: 160
+LDR Value: 947 Lux: 3.32 Brightness: 160
+LDR Value: 961 Lux: 3.42 Brightness: 160
+
+
+LDR Value: 960 Lux: 3.41 Brightness: 180
+LDR Value: 943 Lux: 3.30 Brightness: 180
+LDR Value: 960 Lux: 3.41 Brightness: 180
+LDR Value: 955 Lux: 3.38 Brightness: 180
+LDR Value: 956 Lux: 3.38 Brightness: 180
+LDR Value: 964 Lux: 3.44 Brightness: 180
+LDR Value: 946 Lux: 3.32 Brightness: 180
+LDR Value: 961 Lux: 3.42 Brightness: 180
+LDR Value: 950 Lux: 3.34 Brightness: 180
+LDR Value: 959 Lux: 3.40 Brightness: 180
+LDR Value: 962 Lux: 3.42 Brightness: 180
+LDR Value: 951 Lux: 3.35 Brightness: 180
+LDR Value: 962 Lux: 3.42 Brightness: 180
+LDR Value: 946 Lux: 3.32 Brightness: 180
+LDR Value: 959 Lux: 3.40 Brightness: 180
+LDR Value: 960 Lux: 3.41 Brightness: 180
+LDR Value: 955 Lux: 3.38 Brightness: 180
+LDR Value: 963 Lux: 3.43 Brightness: 180
+LDR Value: 943 Lux: 3.30 Brightness: 180
+LDR Value: 961 Lux: 3.42 Brightness: 180
+
+
+
+LDR Value: 959 Lux: 3.40 Brightness: 200
+LDR Value: 964 Lux: 3.44 Brightness: 200
+LDR Value: 959 Lux: 3.40 Brightness: 200
+LDR Value: 964 Lux: 3.44 Brightness: 200
+LDR Value: 951 Lux: 3.35 Brightness: 200
+LDR Value: 962 Lux: 3.42 Brightness: 200
+LDR Value: 959 Lux: 3.40 Brightness: 200
+LDR Value: 961 Lux: 3.42 Brightness: 200
+LDR Value: 965 Lux: 3.44 Brightness: 200
+LDR Value: 955 Lux: 3.38 Brightness: 200
+LDR Value: 964 Lux: 3.44 Brightness: 200
+LDR Value: 955 Lux: 3.38 Brightness: 200
+LDR Value: 962 Lux: 3.42 Brightness: 200
+LDR Value: 965 Lux: 3.44 Brightness: 200
+LDR Value: 957 Lux: 3.39 Brightness: 200
+
+
+
+
+LDR Value: 957 Lux: 3.39 Brightness: 220
+LDR Value: 966 Lux: 3.45 Brightness: 220
+LDR Value: 957 Lux: 3.39 Brightness: 220
+LDR Value: 965 Lux: 3.44 Brightness: 220
+LDR Value: 967 Lux: 3.46 Brightness: 220
+LDR Value: 963 Lux: 3.43 Brightness: 220
+LDR Value: 966 Lux: 3.45 Brightness: 220
+LDR Value: 959 Lux: 3.40 Brightness: 220
+LDR Value: 965 Lux: 3.44 Brightness: 220
+LDR Value: 964 Lux: 3.44 Brightness: 220
+LDR Value: 964 Lux: 3.44 Brightness: 220
+LDR Value: 966 Lux: 3.45 Brightness: 220
+LDR Value: 961 Lux: 3.42 Brightness: 220
+LDR Value: 966 Lux: 3.45 Brightness: 220
+LDR Value: 959 Lux: 3.40 Brightness: 220
+
+
+
+LDR Value: 964 Lux: 3.44 Brightness: 220
+LDR Value: 967 Lux: 3.46 Brightness: 220
+LDR Value: 963 Lux: 3.43 Brightness: 220
+LDR Value: 965 Lux: 3.44 Brightness: 220
+LDR Value: 956 Lux: 3.38 Brightness: 220
+LDR Value: 964 Lux: 3.44 Brightness: 220
+LDR Value: 966 Lux: 3.45 Brightness: 220
+LDR Value: 963 Lux: 3.43 Brightness: 220
+LDR Value: 966 Lux: 3.45 Brightness: 220
+LDR Value: 958 Lux: 3.40 Brightness: 220
+LDR Value: 965 Lux: 3.44 Brightness: 220
+LDR Value: 963 Lux: 3.43 Brightness: 220
+LDR Value: 963 Lux: 3.43 Brightness: 220
+LDR Value: 966 Lux: 3.45 Brightness: 220
+LDR Value: 961 Lux: 3.42 Brightness: 220
+LDR Value: 965 Lux: 3.44 Brightness: 220
+
+
+LDR Value: 959 Lux: 3.40 Brightness: 200
+LDR Value: 961 Lux: 3.42 Brightness: 200
+LDR Value: 965 Lux: 3.44 Brightness: 200
+LDR Value: 956 Lux: 3.38 Brightness: 200
+LDR Value: 963 Lux: 3.43 Brightness: 200
+LDR Value: 950 Lux: 3.34 Brightness: 200
+LDR Value: 962 Lux: 3.42 Brightness: 200
+LDR Value: 964 Lux: 3.44 Brightness: 200
+LDR Value: 959 Lux: 3.40 Brightness: 200
+LDR Value: 964 Lux: 3.44 Brightness: 200
+LDR Value: 950 Lux: 3.34 Brightness: 200
+LDR Value: 962 Lux: 3.42 Brightness: 200
+LDR Value: 958 Lux: 3.40 Brightness: 200
+LDR Value: 959 Lux: 3.40 Brightness: 200
+LDR Value: 964 Lux: 3.44 Brightness: 200
+
+
+LDR Value: 954 Lux: 3.37 Brightness: 200
+LDR Value: 963 Lux: 3.43 Brightness: 200
+LDR Value: 954 Lux: 3.37 Brightness: 200
+LDR Value: 962 Lux: 3.42 Brightness: 200
+LDR Value: 965 Lux: 3.44 Brightness: 200
+LDR Value: 957 Lux: 3.39 Brightness: 200
+LDR Value: 964 Lux: 3.44 Brightness: 200
+LDR Value: 950 Lux: 3.34 Brightness: 200
+LDR Value: 962 Lux: 3.42 Brightness: 200
+LDR Value: 963 Lux: 3.43 Brightness: 200
+LDR Value: 958 Lux: 3.40 Brightness: 200
+LDR Value: 964 Lux: 3.44 Brightness: 200
+LDR Value: 950 Lux: 3.34 Brightness: 200
+LDR Value: 962 Lux: 3.42 Brightness: 200
+LDR Value: 958 Lux: 3.40 Brightness: 200
+
+
+
+LDR Value: 965 Lux: 3.44 Brightness: 180
+LDR Value: 944 Lux: 3.30 Brightness: 180
+LDR Value: 961 Lux: 3.42 Brightness: 180
+LDR Value: 949 Lux: 3.34 Brightness: 180
+LDR Value: 957 Lux: 3.39 Brightness: 180
+LDR Value: 961 Lux: 3.42 Brightness: 180
+LDR Value: 949 Lux: 3.34 Brightness: 180
+LDR Value: 961 Lux: 3.42 Brightness: 180
+LDR Value: 944 Lux: 3.30 Brightness: 180
+LDR Value: 959 Lux: 3.40 Brightness: 180
+LDR Value: 958 Lux: 3.40 Brightness: 180
+LDR Value: 953 Lux: 3.36 Brightness: 180
+LDR Value: 962 Lux: 3.42 Brightness: 180
+LDR Value: 941 Lux: 3.28 Brightness: 180
+LDR Value: 959 Lux: 3.40 Brightness: 180
+LDR Value: 953 Lux: 3.36 Brightness: 180
+LDR Value: 955 Lux: 3.38 Brightness: 180
+LDR Value: 962 Lux: 3.42 Brightness: 180
+LDR Value: 946 Lux: 3.32 Brightness: 180
+LDR Value: 960 Lux: 3.41 Brightness: 180
+
+
+
+LDR Value: 959 Lux: 3.40 Brightness: 160
+LDR Value: 949 Lux: 3.34 Brightness: 160
+LDR Value: 951 Lux: 3.35 Brightness: 160
+LDR Value: 960 Lux: 3.41 Brightness: 160
+LDR Value: 931 Lux: 3.22 Brightness: 160
+LDR Value: 958 Lux: 3.40 Brightness: 160
+LDR Value: 942 Lux: 3.29 Brightness: 160
+LDR Value: 952 Lux: 3.36 Brightness: 160
+LDR Value: 957 Lux: 3.39 Brightness: 160
+LDR Value: 939 Lux: 3.27 Brightness: 160
+LDR Value: 959 Lux: 3.40 Brightness: 160
+LDR Value: 938 Lux: 3.26 Brightness: 160
+LDR Value: 954 Lux: 3.37 Brightness: 160
+LDR Value: 952 Lux: 3.36 Brightness: 160
+LDR Value: 945 Lux: 3.31 Brightness: 160
+LDR Value: 959 Lux: 3.40 Brightness: 160
+
+
+
+LDR Value: 946 Lux: 3.32 Brightness: 140
+LDR Value: 956 Lux: 3.38 Brightness: 140
+LDR Value: 927 Lux: 3.19 Brightness: 140
+LDR Value: 951 Lux: 3.35 Brightness: 140
+LDR Value: 941 Lux: 3.28 Brightness: 140
+LDR Value: 941 Lux: 3.28 Brightness: 140
+LDR Value: 957 Lux: 3.39 Brightness: 140
+LDR Value: 923 Lux: 3.17 Brightness: 140
+LDR Value: 953 Lux: 3.36 Brightness: 140
+LDR Value: 936 Lux: 3.25 Brightness: 140
+LDR Value: 946 Lux: 3.32 Brightness: 140
+LDR Value: 951 Lux: 3.35 Brightness: 140
+LDR Value: 925 Lux: 3.18 Brightness: 140
+LDR Value: 956 Lux: 3.38 Brightness: 140
+LDR Value: 932 Lux: 3.22 Brightness: 140
+LDR Value: 949 Lux: 3.34 Brightness: 140
+
+
+
+LDR Value: 931 Lux: 3.22 Brightness: 120
+LDR Value: 942 Lux: 3.29 Brightness: 120
+LDR Value: 938 Lux: 3.26 Brightness: 120
+LDR Value: 920 Lux: 3.15 Brightness: 120
+LDR Value: 951 Lux: 3.35 Brightness: 120
+LDR Value: 918 Lux: 3.14 Brightness: 120
+LDR Value: 946 Lux: 3.32 Brightness: 120
+LDR Value: 933 Lux: 3.23 Brightness: 120
+LDR Value: 930 Lux: 3.21 Brightness: 120
+LDR Value: 947 Lux: 3.32 Brightness: 120
+LDR Value: 915 Lux: 3.12 Brightness: 120
+LDR Value: 948 Lux: 3.33 Brightness: 120
+LDR Value: 928 Lux: 3.20 Brightness: 120
+LDR Value: 937 Lux: 3.26 Brightness: 120
+LDR Value: 942 Lux: 3.29 Brightness: 120
+
+
+
+LDR Value: 943 Lux: 3.30 Brightness: 100
+LDR Value: 899 Lux: 3.02 Brightness: 100
+LDR Value: 945 Lux: 3.31 Brightness: 100
+LDR Value: 912 Lux: 3.10 Brightness: 100
+LDR Value: 933 Lux: 3.23 Brightness: 100
+LDR Value: 926 Lux: 3.19 Brightness: 100
+LDR Value: 895 Lux: 2.99 Brightness: 100
+LDR Value: 944 Lux: 3.30 Brightness: 100
+LDR Value: 906 Lux: 3.06 Brightness: 100
+LDR Value: 939 Lux: 3.27 Brightness: 100
+LDR Value: 921 Lux: 3.15 Brightness: 100
+LDR Value: 913 Lux: 3.10 Brightness: 100
+LDR Value: 937 Lux: 3.26 Brightness: 100
+LDR Value: 903 Lux: 3.04 Brightness: 100
+LDR Value: 943 Lux: 3.30 Brightness: 100
+LDR Value: 917 Lux: 3.13 Brightness: 100
+
+
+
+LDR Value: 943 Lux: 3.30 Brightness: 80
+LDR Value: 922 Lux: 3.16 Brightness: 80
+LDR Value: 900 Lux: 3.02 Brightness: 80
+LDR Value: 878 Lux: 2.89 Brightness: 80
+LDR Value: 886 Lux: 2.94 Brightness: 80
+LDR Value: 894 Lux: 2.99 Brightness: 80
+LDR Value: 902 Lux: 3.04 Brightness: 80
+LDR Value: 911 Lux: 3.09 Brightness: 80
+LDR Value: 919 Lux: 3.14 Brightness: 80
+LDR Value: 930 Lux: 3.21 Brightness: 80
+LDR Value: 936 Lux: 3.25 Brightness: 80
+LDR Value: 925 Lux: 3.18 Brightness: 80
+LDR Value: 905 Lux: 3.06 Brightness: 80
+LDR Value: 878 Lux: 2.89 Brightness: 80
+LDR Value: 886 Lux: 2.94 Brightness: 80
+LDR Value: 892 Lux: 2.98 Brightness: 80
+
+
+
+
+LDR Value: 930 Lux: 3.21 Brightness: 60
+LDR Value: 891 Lux: 2.97 Brightness: 60
+LDR Value: 852 Lux: 2.75 Brightness: 60
+LDR Value: 859 Lux: 2.79 Brightness: 60
+LDR Value: 867 Lux: 2.83 Brightness: 60
+LDR Value: 876 Lux: 2.88 Brightness: 60
+LDR Value: 883 Lux: 2.92 Brightness: 60
+LDR Value: 892 Lux: 2.98 Brightness: 60
+LDR Value: 903 Lux: 3.04 Brightness: 60
+LDR Value: 914 Lux: 3.11 Brightness: 60
+LDR Value: 918 Lux: 3.14 Brightness: 60
+LDR Value: 897 Lux: 3.01 Brightness: 60
+LDR Value: 851 Lux: 2.74 Brightness: 60
+LDR Value: 858 Lux: 2.78 Brightness: 60
+LDR Value: 866 Lux: 2.83 Brightness: 60
+
+
+
+LDR Value: 909 Lux: 3.08 Brightness: 40
+LDR Value: 809 Lux: 2.52 Brightness: 40
+LDR Value: 817 Lux: 2.56 Brightness: 40
+LDR Value: 824 Lux: 2.60 Brightness: 40
+LDR Value: 832 Lux: 2.64 Brightness: 40
+LDR Value: 842 Lux: 2.69 Brightness: 40
+LDR Value: 851 Lux: 2.74 Brightness: 40
+LDR Value: 861 Lux: 2.80 Brightness: 40
+LDR Value: 872 Lux: 2.86 Brightness: 40
+LDR Value: 886 Lux: 2.94 Brightness: 40
+LDR Value: 883 Lux: 2.92 Brightness: 40
+LDR Value: 825 Lux: 2.60 Brightness: 40
+LDR Value: 814 Lux: 2.55 Brightness: 40
+LDR Value: 822 Lux: 2.59 Brightness: 40
+LDR Value: 831 Lux: 2.63 Brightness: 40
+LDR Value: 840 Lux: 2.68 Brightness: 40
+
+
+
+LDR Value: 859 Lux: 2.79 Brightness: 20
+LDR Value: 727 Lux: 2.14 Brightness: 20
+LDR Value: 733 Lux: 2.17 Brightness: 20
+LDR Value: 742 Lux: 2.21 Brightness: 20
+LDR Value: 751 Lux: 2.25 Brightness: 20
+LDR Value: 762 Lux: 2.30 Brightness: 20
+LDR Value: 771 Lux: 2.34 Brightness: 20
+LDR Value: 783 Lux: 2.39 Brightness: 20
+LDR Value: 796 Lux: 2.46 Brightness: 20
+LDR Value: 811 Lux: 2.53 Brightness: 20
+LDR Value: 777 Lux: 2.37 Brightness: 20
+LDR Value: 721 Lux: 2.11 Brightness: 20
+LDR Value: 732 Lux: 2.16 Brightness: 20
+LDR Value: 740 Lux: 2.20 Brightness: 20
+LDR Value: 749 Lux: 2.24 Brightness: 20
+
+
+
+LDR Value: 9 Lux: 0.51 Brightness: 0
+LDR Value: 7 Lux: 0.51 Brightness: 0
+LDR Value: 6 Lux: 0.51 Brightness: 0
+LDR Value: 6 Lux: 0.51 Brightness: 0
+LDR Value: 4 Lux: 0.50 Brightness: 0
+LDR Value: 3 Lux: 0.50 Brightness: 0
+LDR Value: 6 Lux: 0.51 Brightness: 0
+LDR Value: 9 Lux: 0.51 Brightness: 0
+LDR Value: 5 Lux: 0.51 Brightness: 0
+LDR Value: 6 Lux: 0.51 Brightness: 0
+LDR Value: 5 Lux: 0.51 Brightness: 0
+LDR Value: 7 Lux: 0.51 Brightness: 0
+LDR Value: 5 Lux: 0.51 Brightness: 0
+LDR Value: 4 Lux: 0.50 Brightness: 0
+LDR Value: 2 Lux: 0.50 Brightness: 0
+
+
+
