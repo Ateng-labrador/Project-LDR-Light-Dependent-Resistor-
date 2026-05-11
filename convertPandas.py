@@ -1529,285 +1529,370 @@ f12 = "data_3_220_turun.csv"
 # putaran pertama
 conver_cvs(a = a1, b = data_1_00_naik)
 dt0000up = pd.read_csv(a1)
-x = dt0000up['ldr']
+x = dt0000up['LDR']
 add_time(x, dt0000up, a1)
 
 conver_cvs(a = a2, b = data_1_20_naik)
 dt0020up = pd.read_csv(a2)
-x = dt0020up['ldr']
+x = dt0020up['LDR']
 add_time(x, dt0020up, a2)
 
 conver_cvs(a = a3, b = data_1_40_naik)
 dt0040up = pd.read_csv(a3)
-x = dt0040up['ldr']
+x = dt0040up['LDR']
 add_time(x, dt0040up, a3)
 
 conver_cvs(a = a4, b = data_1_60_naik)
 dt0060up = pd.read_csv(a4)
-x = dt0060up['ldr']
+x = dt0060up['LDR']
 add_time(x, dt0060up, a4)
 
 conver_cvs(a = a5, b = data_1_80_naik)
 dt0080up = pd.read_csv(a5)
-x = dt0080up['ldr']
+x = dt0080up['LDR']
 add_time(x, dt0080up, a5)
 
 conver_cvs(a = a6, b = data_1_100_naik)
 dt00100up = pd.read_csv(a6)
-x = dt00100up['ldr']
+x = dt00100up['LDR']
 add_time(x, dt00100up, a6)
 
 conver_cvs(a = a7, b = data_1_120_naik)
 dt00120up = pd.read_csv(a7)
-x = dt00120up['ldr']
+x = dt00120up['LDR']
 add_time(x, dt00120up, a7)
 
 conver_cvs(a = a8, b = data_1_140_naik)
 dt00140up = pd.read_csv(a8)
-x = dt00140up['ldr']
+x = dt00140up['LDR']
 add_time(x, dt00140up, a8)
 
 conver_cvs(a = a9, b = data_1_160_naik)
 dt00160up = pd.read_csv(a9)
-x = dt00160up['ldr']
+x = dt00160up['LDR']
 add_time(x, dt00160up, a9)
 
 conver_cvs(a = a10, b = data_1_180_naik)
 dt00180up = pd.read_csv(a10)
-x = dt00180up['ldr']
-add_time(x, dt00160up, a10)
+x = dt00180up['LDR']
+add_time(x, dt00180up, a10)
 
 
 conver_cvs(a = a11, b = data_1_200_naik)
 dt00200up = pd.read_csv(a11)
-x = dt00200up['ldr']
+x = dt00200up['LDR']
 add_time(x, dt00200up, a11)
 
 conver_cvs(a = a12, b = data_1_220_naik)
 dt00220up = pd.read_csv(a12)
-x = dt00220up['ldr']
+x = dt00220up['LDR']
 add_time(x, dt00220up, a12)
 
 
 
-conver_cvs(a = b3, b = data_1_12_turun)
-dt112dw = pd.read_csv(b3)
-x = dt112dw['ldr']
-add_time(x, dt112dw, b3)
+conver_cvs(a = b1, b = data_1_00_turun)
+dt0000dw = pd.read_csv(b1)
+x = dt0000dw['LDR']
+add_time(x, dt0000dw, b1)
 
-conver_cvs(a = b4, b = data_1_15_turun)
-dt115dw = pd.read_csv(b4)
-x = dt115dw['ldr']
-add_time(x, dt115dw, b4)
+conver_cvs(a = b2, b = data_1_20_turun)
+dt0020dw = pd.read_csv(b2)
+x = dt0020dw['LDR']
+add_time(x, dt0020dw, b2)
 
-conver_cvs(a = b5, b = data_1_18_turun)
-dt118dw = pd.read_csv(b5)
-x = dt118dw['ldr']
-add_time(x, dt118dw, b5)
+conver_cvs(a = b3, b = data_1_40_turun)
+dt0040dw = pd.read_csv(b3)
+x = dt0040dw['LDR']
+add_time(x, dt0040dw, b3)
 
-conver_cvs(a = b6, b = data_1_21_turun)
-dt121dw = pd.read_csv(b6)
-x = dt121dw['ldr']
-add_time(x, dt121dw, b6)
+conver_cvs(a = b4, b = data_1_60_turun)
+dt0060dw = pd.read_csv(b4)
+x = dt0060dw['LDR']
+add_time(x, dt0060dw, b4)
 
-conver_cvs(a = b7, b = data_1_24_turun)
-dt124dw = pd.read_csv(b7)
-x = dt124dw['ldr']
-add_time(x, dt124dw, b7)
+conver_cvs(a = b5, b = data_1_80_turun)
+dt0080dw = pd.read_csv(b5)
+x = dt0080dw['LDR']
+add_time(x, dt0080dw, b5)
 
-conver_cvs(a = b8, b = data_1_27_turun)
-dt127dw = pd.read_csv(b8)
-x = dt127dw['ldr']
-add_time(x, dt127dw, b8)
+conver_cvs(a = b6, b = data_1_100_turun)
+dt00100dw = pd.read_csv(b6)
+x = dt00100dw['LDR']
+add_time(x, dt00100dw, b6)
 
-# conver_cvs(a = b9, b = data_1_30_turun)
-# dt130dw = pd.read_csv(b9)
-# x = dt130dw['jarak']
-# add_time(x, dt130dw)
+conver_cvs(a = b7, b = data_1_120_turun)
+dt00120dw = pd.read_csv(b7)
+x = dt00120dw['LDR']
+add_time(x, dt00120dw, b7)
+
+conver_cvs(a = b8, b = data_1_140_turun)
+dt00140dw = pd.read_csv(b8)
+x = dt00140dw['LDR']
+add_time(x, dt00140dw, b8)
+
+conver_cvs(a = b9, b = data_1_160_turun)
+dt00160dw = pd.read_csv(b9)
+x = dt00160dw['LDR']
+add_time(x, dt00160dw, b9)
+
+conver_cvs(a = b10, b = data_1_180_turun)
+dt00180dw = pd.read_csv(b10)
+x = dt00180dw['LDR']
+add_time(x, dt00180dw, b10)
+
+conver_cvs(a = b11, b = data_1_200_turun)
+dt00200dw = pd.read_csv(b11)
+x = dt00200dw['LDR']
+add_time(x, dt00200dw, b11)
+
+conver_cvs(a = b12, b = data_1_220_turun)
+dt00220dw = pd.read_csv(b12)
+x = dt00220dw['LDR']
+add_time(x, dt00220dw, b12)
 
 # putaran kedua
 
-conver_cvs(a = c1, b = data_2_6_naik)
-dt216up = pd.read_csv(c1)
-x = dt216up['jarak']
-add_time(x, dt216up, c1)
+conver_cvs(a = c1, b = data_2_00_naik)
+dt2000up = pd.read_csv(c1)
+x = dt2000up['LDR']
+add_time(x, dt2000up, c1)
 
-conver_cvs(a = c2, b = data_2_9_naik)
-dt219up = pd.read_csv(c2)
-x = dt219up['jarak']
-add_time(x, dt219up, c2)
+conver_cvs(a = c2, b = data_2_20_naik)
+dt2020up = pd.read_csv(c2)
+x = dt2020up['LDR']
+add_time(x, dt2020up, c2)
 
-conver_cvs(a = c3, b = data_2_12_naik)
-dt212up = pd.read_csv(c3)
-x = dt212up['jarak']
-add_time(x, dt212up, c3)
+conver_cvs(a = c3, b = data_2_40_naik)
+dt2040up = pd.read_csv(c3)
+x = dt2040up['LDR']
+add_time(x, dt2040up, c3)
 
-conver_cvs(a = c4, b = data_2_15_naik)
-dt215up = pd.read_csv(c4)
-x = dt215up['jarak']
-add_time(x, dt215up, c4)
+conver_cvs(a = c4, b = data_2_60_naik)
+dt2060up = pd.read_csv(c4)
+x = dt2060up['LDR']
+add_time(x, dt2060up, c4)
 
-conver_cvs(a = c5, b = data_2_18_naik)
-dt218up = pd.read_csv(c5)
-x = dt218up['jarak']
-add_time(x, dt218up, c5)
+conver_cvs(a = c5, b = data_2_80_naik)
+dt2080up = pd.read_csv(c5)
+x = dt2080up['LDR']
+add_time(x, dt2080up, c5)
 
-conver_cvs(a = c6, b = data_2_21_naik)
-dt221up = pd.read_csv(c6)
-x = dt221up['jarak']
-add_time(x, dt221up, c6)
+conver_cvs(a = c6, b = data_2_100_naik)
+dt20100up = pd.read_csv(c6)
+x = dt20100up['LDR']
+add_time(x, dt20100up, c6)
 
-conver_cvs(a = c7, b = data_2_24_naik)
-dt224up = pd.read_csv(c7)
-x = dt224up['jarak']
-add_time(x, dt224up, c7)
+conver_cvs(a = c7, b = data_2_120_naik)
+dt20120up = pd.read_csv(c7)
+x = dt20120up['LDR']
+add_time(x, dt20120up, c7)
 
-conver_cvs(a = c8, b = data_2_27_naik)
-dt227up = pd.read_csv(c8)
-x = dt227up['jarak']
-add_time(x, dt227up, c8)
+conver_cvs(a = c8, b = data_2_140_naik)
+dt20140up = pd.read_csv(c8)
+x = dt20140up['LDR']
+add_time(x, dt20140up, c8)
 
-conver_cvs(a = c9, b = data_2_30_naik)
-dt230up = pd.read_csv(c9)
-x = dt230up['jarak']
-add_time(x, dt230up, c9)
+conver_cvs(a = c9, b = data_2_160_naik)
+dt20160up = pd.read_csv(c9)
+x = dt20160up['LDR']
+add_time(x, dt20160up, c9)
+
+conver_cvs(a = c10, b = data_2_180_naik)
+dt20180up = pd.read_csv(c10)
+x = dt20180up['LDR']
+add_time(x, dt20180up, c10)
+
+conver_cvs(a = c11, b = data_2_200_naik)
+dt20200up = pd.read_csv(c11)
+x = dt20200up['LDR']
+add_time(x, dt20200up, c11)
+
+conver_cvs(a = c12, b = data_2_220_naik)
+dt20220up = pd.read_csv(c12)
+x = dt20220up['LDR']
+add_time(x, dt20220up, c12)
 
 
-conver_cvs(a = d1, b = data_2_6_turun)
-dt36dw = pd.read_csv(d1)
-x = dt36dw['jarak']
-add_time(x, dt36dw, d1)
+conver_cvs(a = d1, b = data_2_00_turun)
+dt2000dw = pd.read_csv(d1)
+x = dt2000dw['LDR']
+add_time(x, dt2000dw, d1)
 
-conver_cvs(a = d2, b = data_2_9_turun)
-dt39dw = pd.read_csv(d2)
-x = dt39dw['jarak']
-add_time(x, dt39dw, d2)
+conver_cvs(a = d2, b = data_2_20_turun)
+dt2020dw = pd.read_csv(d2)
+x = dt2020dw['LDR']
+add_time(x, dt2020dw, d2)
 
-conver_cvs(a = d3, b = data_2_12_turun)
-dt312dw = pd.read_csv(d3)
-x = dt312dw['jarak']
-add_time(x, dt312dw, d3)
+conver_cvs(a = d3, b = data_2_40_turun)
+dt2040dw = pd.read_csv(d3)
+x = dt2040dw['LDR']
+add_time(x, dt2040dw, d3)
 
-conver_cvs(a = d4, b = data_2_15_turun)
-dt315dw = pd.read_csv(d4)
-x = dt315dw['jarak']
-add_time(x, dt315dw, d4)
+conver_cvs(a = d4, b = data_2_60_turun)
+dt2060dw = pd.read_csv(d4)
+x = dt2060dw['LDR']
+add_time(x, dt2060dw, d4)
 
-conver_cvs(a = d5, b = data_2_18_turun)
-dt318dw = pd.read_csv(d5)
-x = dt318dw['jarak']
-add_time(x, dt318dw, d5)
+conver_cvs(a = d5, b = data_2_80_turun)
+dt2080dw = pd.read_csv(d5)
+x = dt2080dw['LDR']
+add_time(x, dt2080dw, d5)
 
-conver_cvs(a = d6, b = data_2_21_turun)
-dt321dw = pd.read_csv(d6)
-x = dt321dw['jarak']
-add_time(x, dt321dw, d6)
+conver_cvs(a = d6, b = data_2_100_turun)
+dt20100dw = pd.read_csv(d6)
+x = dt20100dw['LDR']
+add_time(x, dt20100dw, d6)
 
-conver_cvs(a = d7, b = data_2_24_turun)
-dt324dw = pd.read_csv(d7)
-x = dt324dw['jarak']
-add_time(x, dt324dw, d7)
+conver_cvs(a = d7, b = data_2_120_turun)
+dt20120dw = pd.read_csv(d7)
+x = dt20120dw['LDR']
+add_time(x, dt20120dw, d7)
 
-conver_cvs(a = d8, b = data_2_27_turun)
-dt327dw = pd.read_csv(d8)
-x = dt327dw['jarak']
-add_time(x, dt327dw, d8)
+conver_cvs(a = d8, b = data_2_140_turun)
+dt20140dw = pd.read_csv(d8)
+x = dt20140dw['LDR']
+add_time(x, dt20140dw, d8)
 
-conver_cvs(a = d9, b = data_2_30_turun)
-dt330dw = pd.read_csv(d9)
-x = dt330dw['jarak']
-add_time(x, dt330dw, d9)
+conver_cvs(a = d9, b = data_2_160_turun)
+dt20160dw = pd.read_csv(d9)
+x = dt20160dw['LDR']
+add_time(x, dt20160dw, d9)
+
+conver_cvs(a = d10, b = data_2_180_naik)  # Note: data_2_180_naik used as per existing code
+dt20180dw = pd.read_csv(d10)
+x = dt20180dw['LDR']
+add_time(x, dt20180dw, d10)
+
+conver_cvs(a = d11, b = data_2_200_turun)
+dt20200dw = pd.read_csv(d11)
+x = dt20200dw['LDR']
+add_time(x, dt20200dw, d11)
+
+conver_cvs(a = d12, b = data_2_220_turun)
+dt20220dw = pd.read_csv(d12)
+x = dt20220dw['LDR']
+add_time(x, dt20220dw, d12)
 
 
 # putaran ketiga
 
-conver_cvs(a = f1, b = data_3_6_naik)
-dt16up = pd.read_csv(f1)
-x = dt16up['jarak']
-add_time(x, dt16up, f1)
+conver_cvs(a = e1, b = data_3_00_naik)
+dt3000up = pd.read_csv(e1)
+x = dt3000up['LDR']
+add_time(x, dt3000up, e1)
 
-conver_cvs(a = f2, b = data_3_9_naik)
-dt19up = pd.read_csv(f2)
-x = dt19up['jarak']
-add_time(x, dt19up, f2)
+conver_cvs(a = e2, b = data_3_20_naik)
+dt3020up = pd.read_csv(e2)
+x = dt3020up['LDR']
+add_time(x, dt3020up, e2)
 
-conver_cvs(a = f3, b = data_3_12_naik)
-dt112up = pd.read_csv(f3)
-x = dt112up['jarak']
-add_time(x, dt112up, f3)
+conver_cvs(a = e3, b = data_3_40_naik)
+dt3040up = pd.read_csv(e3)
+x = dt3040up['LDR']
+add_time(x, dt3040up, e3)
 
-conver_cvs(a = f4, b = data_3_15_naik)
-dt115up = pd.read_csv(f4)
-x = dt115up['jarak']
-add_time(x, dt115up, f4)
+conver_cvs(a = e4, b = data_3_60_naik)
+dt3060up = pd.read_csv(e4)
+x = dt3060up['LDR']
+add_time(x, dt3060up, e4)
 
-conver_cvs(a = f5, b = data_3_18_naik)
-dt118up = pd.read_csv(f5)
-x = dt118up['jarak']
-add_time(x, dt118up, f5)
+conver_cvs(a = e5, b = data_3_80_naik)
+dt3080up = pd.read_csv(e5)
+x = dt3080up['LDR']
+add_time(x, dt3080up, e5)
 
-conver_cvs(a = f6, b = data_3_21_naik)
-dt121up = pd.read_csv(f6)
-x = dt121up['jarak']
-add_time(x, dt121up, f6)
+conver_cvs(a = e6, b = data_3_100_naik)
+dt30100up = pd.read_csv(e6)
+x = dt30100up['LDR']
+add_time(x, dt30100up, e6)
 
-conver_cvs(a = f7, b = data_3_24_naik)
-dt124up = pd.read_csv(f7)
-x = dt124up['jarak']
-add_time(x, dt124up, f7)
+conver_cvs(a = e7, b = data_3_120_naik)
+dt30120up = pd.read_csv(e7)
+x = dt30120up['LDR']
+add_time(x, dt30120up, e7)
 
-conver_cvs(a = f8, b = data_3_27_naik)
-dt127up = pd.read_csv(f8)
-x = dt127up['jarak']
-add_time(x, dt127up, f8)
+conver_cvs(a = e8, b = data_3_140_naik)
+dt30140up = pd.read_csv(e8)
+x = dt30140up['LDR']
+add_time(x, dt30140up, e8)
 
-conver_cvs(a = f9, b = data_3_30_naik)
-dt130up = pd.read_csv(f9)
-x = dt130up['jarak']
-add_time(x, dt130up, f9)
+conver_cvs(a = e9, b = data_3_160_naik)
+dt30160up = pd.read_csv(e9)
+x = dt30160up['LDR']
+add_time(x, dt30160up, e9)
+
+conver_cvs(a = e10, b = data_3_180_naik)
+dt30180up = pd.read_csv(e10)
+x = dt30180up['LDR']
+add_time(x, dt30180up, e10)
+
+conver_cvs(a = e11, b = data_3_200_naik)
+dt30200up = pd.read_csv(e11)
+x = dt30200up['LDR']
+add_time(x, dt30200up, e11)
+
+conver_cvs(a = e12, b = data_3_220_naik)
+dt30220up = pd.read_csv(e12)
+x = dt30220up['LDR']
+add_time(x, dt30220up, e12)
 
 
-conver_cvs(a = g1, b = data_3_6_turun)
-dt16dw = pd.read_csv(g1)
-x = dt16dw['jarak']
-add_time(x, dt16dw, g1)
+conver_cvs(a = f1, b = data_3_00_turun)
+dt3000dw = pd.read_csv(f1)
+x = dt3000dw['LDR']
+add_time(x, dt3000dw, f1)
 
-conver_cvs(a = g2, b = data_3_9_turun)
-dt19dw = pd.read_csv(g2)
-x = dt19dw['jarak']
-add_time(x, dt19dw, g2)
+conver_cvs(a = f2, b = data_3_20_turun)
+dt3020dw = pd.read_csv(f2)
+x = dt3020dw['LDR']
+add_time(x, dt3020dw, f2)
 
-conver_cvs(a = g3, b = data_3_12_turun)
-dt112dw = pd.read_csv(g3)
-x = dt112dw['jarak']
-add_time(x, dt112dw, g3)
+conver_cvs(a = f3, b = data_3_40_turun)
+dt3040dw = pd.read_csv(f3)
+x = dt3040dw['LDR']
+add_time(x, dt3040dw, f3)
 
-conver_cvs(a = g4, b = data_3_15_turun)
-dt115dw = pd.read_csv(g4)
-x = dt115dw['jarak']
-add_time(x, dt115dw, g4)
+conver_cvs(a = f4, b = data_3_60_turun)
+dt3060dw = pd.read_csv(f4)
+x = dt3060dw['LDR']
+add_time(x, dt3060dw, f4)
 
-conver_cvs(a = g5, b = data_3_18_turun)
-dt118dw = pd.read_csv(g5)
-x = dt118dw['jarak']
-add_time(x, dt118dw, g5)
+conver_cvs(a = f5, b = data_3_80_turun)
+dt3080dw = pd.read_csv(f5)
+x = dt3080dw['LDR']
+add_time(x, dt3080dw, f5)
 
-conver_cvs(a = g6, b = data_3_21_turun)
-dt121dw = pd.read_csv(g6)
-x = dt121dw['jarak']
-add_time(x, dt121dw, g6)
+conver_cvs(a = f6, b = data_3_100_turun)
+dt30100dw = pd.read_csv(f6)
+x = dt30100dw['LDR']
+add_time(x, dt30100dw, f6)
 
-conver_cvs(a = g7, b = data_3_24_turun)
-dt124dw = pd.read_csv(g7)
-x = dt124dw['jarak']
-add_time(x, dt124dw, g7)
+conver_cvs(a = f7, b = data_3_120_turun)
+dt30120dw = pd.read_csv(f7)
+x = dt30120dw['LDR']
+add_time(x, dt30120dw, f7)
 
-conver_cvs(a = g8, b = data_3_27_turun)
-dt127dw = pd.read_csv(g8)
-x = dt127dw['jarak']
-add_time(x, dt127dw, g8)
+conver_cvs(a = f8, b = data_3_140_turun)
+dt30140dw = pd.read_csv(f8)
+x = dt30140dw['LDR']
+add_time(x, dt30140dw, f8)
 
-conver_cvs(a = g9, b = data_3_30_turun)
-dt130dw = pd.read_csv(g9)
-x = dt130dw['jarak']
-add_time(x, dt130dw, g9)
+conver_cvs(a = f9, b = data_3_160_turun)
+dt30160dw = pd.read_csv(f9)
+x = dt30160dw['LDR']
+add_time(x, dt30160dw, f9)
+
+conver_cvs(a = f10, b = data_3_180_naik)  # Note: data_3_180_naik used as per existing code
+dt30180dw = pd.read_csv(f10)
+x = dt30180dw['LDR']
+add_time(x, dt30180dw, f10)
+
+conver_cvs(a = f11, b = data_3_200_turun)
+dt30200dw = pd.read_csv(f11)
+x = dt30200dw['LDR']
+add_time(x, dt30200dw, f11)
+
+conver_cvs(a = f12, b = data_3_220_turun)
+dt30220dw = pd.read_csv(f12)
+x = dt30220dw['LDR']
+add_time(x, dt30220dw, f12)
